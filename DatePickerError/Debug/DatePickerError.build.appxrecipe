@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RALPH-WINDOWS8</Machine>
+    <WindowsUser>ralph</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2011-09-14T22:56:30.596</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2011-09-14T21:56:01.409</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\css\homePage.css">
+      <PackagePath>css\homePage.css</PackagePath>
+      <Modified>2011-09-14T21:56:01.409</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2011-09-14T22:56:29.705</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2011-09-14T22:35:54.121</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\html\homePage.html">
+      <PackagePath>html\homePage.html</PackagePath>
+      <Modified>2011-09-14T22:34:54.362</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2011-09-14T21:56:01.471</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\js\homePage.js">
+      <PackagePath>js\homePage.js</PackagePath>
+      <Modified>2011-09-14T22:36:15.603</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\js\jquery-1.6.4.js">
+      <PackagePath>js\jquery-1.6.4.js</PackagePath>
+      <Modified>2011-09-14T20:57:49.690</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\js\jquery-ui.js">
+      <PackagePath>js\jquery-ui.js</PackagePath>
+      <Modified>2011-09-14T20:54:54.774</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\Css\ui-dark.css">
+      <PackagePath>winjs\Css\ui-dark.css</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\Css\ui-light.css">
+      <PackagePath>winjs\Css\ui-light.css</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\js\animations.js">
+      <PackagePath>winjs\js\animations.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\js\base.js">
+      <PackagePath>winjs\js\base.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\js\binding.js">
+      <PackagePath>winjs\js\binding.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\js\controls.js">
+      <PackagePath>winjs\js\controls.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\js\res.js">
+      <PackagePath>winjs\js\res.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\js\ui.js">
+      <PackagePath>winjs\js\ui.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\js\uicollections.js">
+      <PackagePath>winjs\js\uicollections.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\DatePickerError\DatePickerError\winjs\js\wwaapp.js">
+      <PackagePath>winjs\js\wwaapp.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+  </ItemGroup>
+</Project>
